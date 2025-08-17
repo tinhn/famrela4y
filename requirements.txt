@@ -1,0 +1,5 @@
+pandas
+networkx
+dash
+dash-bootstrap-components
+dash_cytoscape
